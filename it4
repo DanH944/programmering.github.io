@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+<title>Programmring IT6</title>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>Programmering och 3D-modulering</h1>
+<hr>
+
+<p> På den här sidan kommer alla program och 3D moduleringar som görs i kursen IT6 på Ålands lyceum publiceras </p>
+
+<p> Jag som fixat den här sidan heter Dan Haldin och sidan är gjord helt med kodning i språken HTML och CSS </p>
+
+<p> Programmen och spelen som publiceras är kodade i Python eller skapade med blockprogrammering i programmet Scrath, 
+3D bilderna som publiseras är gjorda i tinkercad och eventuellt Blender. 
+Bilderna är skärmbilder och om man klickar på 
+bilden laddas .stl filen ner som är avsedd för 3D utskrift.</p>
+<br>
+<br>
+
+
+<p></p>
+<p>PROGRAMMERING  /  3D-MODELLERING / KONTAKT / TILLBAKA  </p>
+<hr>
+<h2> Programmering </h2>
+
+<table style="width:80%" border="1">
+<tr>
+<td><h3> -- THE FOX -- </h3></td>
+<td><h3> -- HIT THE HEN -- </h3></td>
+</tr>
+<tr>
+<td> 
+<iframe src="https://scratch.mit.edu/projects/811042713/embed" allowtransparency="true" width="500" height="425" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</td>
+<td>
+<iframe src="https://scratch.mit.edu/projects/810276278/embed" allowtransparency="true" width="500" height="425" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</td>
+</tr>
+
+</table>
+
+<hr>
+-----------------------------------------------
+<table style="width:80%" border="1">
+<tr>
+<td><h3> -- Lärspelet -- </h3></td>
+<td><h3> -- Tic Tac Toe -- </h3></td>
+</tr><td>
+<a href="https://replit.com/@DanHaldin/LARPROGRAMMET?v=1" target="_blank">Lärprogrammet</a>
+</td>
+<td> 
+<a href="https://replit.com/@DanHaldin/Tic-Tac-Toe?v=1" target="_blank">Tic Tac Toe </a>
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+-----------------------------------------------
+</body>
+</html>
